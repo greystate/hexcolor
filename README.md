@@ -25,7 +25,19 @@ const longValues = pieColor.toRGB()      // >> [49, 65, 89]
 const shortValues = pieColor.toRGB(true) // >> [48, 64, 80]
 ```
 
-_More API & usage stuff coming soon_
+What I *really* built this for, was to be able to do this:
+
+```javascript
+const color = new HexColor('#ff8000')    // >> '#ff8000'
+const words = color.toDeSandro()         // >> 'middle saturated orange'
+```
+
+Because ever since I saw [David DeSandro's presentation][PRES] from
+**dotCSS 2018**, I've not been able to forget about it.
+It's a fantastic way of looking at color values.
+
+[PRES]: https://www.dotconferences.com/2018/11/david-desandro-read-color-hex-codes
+
 
 
 Tests

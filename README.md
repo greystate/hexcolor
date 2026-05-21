@@ -47,5 +47,9 @@ There's a bunch of [tests][] available for the curious - actually,
 if you feel like learning a new language, grab the tests and rewrite them for
 that language; then implement `HexColor` using the tests as a guide.
 
+> [!NOTE]
+> To run the tests, you need to open the [`SpecRunner.html`][RUNNNER] file from a local webserver;
+> your IDE probably has a built-in way to do this; or an easy way to install an extension for it.
 
 [tests]: test/spec/hexcolor-spec.js
+[RUNNER]: test/SpecRunner.html

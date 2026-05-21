@@ -45,8 +45,7 @@ Tests
 
 There's a bunch of [tests][] available for the curious - actually,
 if you feel like learning a new language, grab the tests and rewrite them for
-that language.  
-Then implement `HexColor` using the tests as a guide.
+that language; then implement `HexColor` using the tests as a guide.
 
 
 [tests]: test/spec/hexcolor-spec.js

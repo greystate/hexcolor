@@ -36,7 +36,7 @@ Because ever since I saw [David DeSandro's presentation][PRES] from
 **dotCSS 2018**, I've not been able to forget about it.
 It's a fantastic way of looking at color values.
 
-[PRES]: https://www.dotconferences.com/2018/11/david-desandro-read-color-hex-codes
+[PRES]: https://www.youtube.com/watch?v=eqZqx6lRPe0
 
 
 
